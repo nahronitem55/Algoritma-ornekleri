@@ -1,1 +1,1 @@
-# Algoritma-rnekleri
+# Algoritma-ornekleri
